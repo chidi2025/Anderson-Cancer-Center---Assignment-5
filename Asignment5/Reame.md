@@ -49,6 +49,3 @@ This repository contains solutions to data analysis and visualization assignment
 - Execute the provided Python script for logistic regression.
 - Ensure required libraries (scikit-learn) are installed.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
